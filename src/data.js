@@ -47,7 +47,7 @@ const data = [
         startDate: "1 Jul, 2022",
         endDate: "3 Jul, 2022",
         description: "A quiet place in the middle of the Alpes to pray and to be in touch with nature... and to see a real bear! ",
-        imageUrl: "https://www.trentino.com/images/cms/main/754x435/B-Santuario-San-Romedio-Val-di-Non-Trentino-P1070091.jpg"
+        imageUrl: "https://images.unsplash.com/photo-1580915469718-20aac389d0a3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=432&q=80"
         
     }
 ]
