@@ -49,6 +49,7 @@ nav {
 
 .card--image {
     max-width: 150px;
+    max-height: 225px;
    /* width: 125px;
     height: 168px;*/
     padding: 10px;
